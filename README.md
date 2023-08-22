@@ -1,8 +1,8 @@
-👋 Hi, I’m @ezi-prog
-👀 I’m interested in IT
-🌱 I’m currently learning at Gunadarma University
-📫 Contact me on Instagram @alfareziiiy
-💘 My GF is named Nadia Pramesti
+👋 Hi, I’m @ezi-prog <div>
+👀 I’m interested in IT <div>
+🌱 I’m currently learning at Gunadarma University <div>
+📫 Contact me on Instagram @alfareziiiy<div>
+💘 My GF is named Nadia Pramesti <div>
 
 Disinilah perjalanan hidupku dimulai...
 
