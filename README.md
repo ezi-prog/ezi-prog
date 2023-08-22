@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @ezi-prog
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning at Gunadarma University
-- 📫 Contact me on Instagram @alfareziiiy
-- 💘 My GF is named Nadia Pramesti
+👋 Hi, I’m @ezi-prog
+👀 I’m interested in IT
+🌱 I’m currently learning at Gunadarma University
+📫 Contact me on Instagram @alfareziiiy
+💘 My GF is named Nadia Pramesti
 
-  Disinilah perjalanan hidupku dimulai...
+Disinilah perjalanan hidupku dimulai...
 
-  Alfarezi 4.0
+Alfarezi 4.0
 
 
 <!---
